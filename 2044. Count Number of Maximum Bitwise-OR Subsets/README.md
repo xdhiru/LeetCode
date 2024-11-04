@@ -34,4 +34,4 @@ Explanation: The maximum possible bitwise OR of a subset is 7. There are 6 subse
 
 ### **Constraints:**
 + `1 <= nums.length <= 16`
-+ `1 <= nums[i] <= 105`
++ `1 <= nums[i] <= 10^5`
